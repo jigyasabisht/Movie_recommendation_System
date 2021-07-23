@@ -10,5 +10,5 @@ Collaborative systems are furthur based as
 
 The dataset taken for creating this movie recommendation system is [Movielens 100k dataset](https://grouplens.org/datasets/movielens/100k/)   
 
-For classifaction we have taken ml-100k.data  
+For classifaction we have taken ml-100k.data and ml-item.data.
 
